@@ -1,0 +1,9 @@
+.codl{
+    box-shadow: 2px 3px 3px #000;
+    border-bottom: #26196B;
+    background-color: #26196B;
+    color: #FFF !important;
+}
+.codl  a {
+    color: #FFF;
+}
