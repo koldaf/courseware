@@ -1,0 +1,205 @@
+[
+  {
+    "sn": 1,
+    "courseCode": "CSC 111",
+    "courseTitle": "Introduction to Computer Science 1",
+    "filename": "CSC111.pdf",
+    "fileType": "pdf"
+  },
+  {
+    "sn": 2,
+    "courseCode": "CSC 112",
+    "courseTitle": "Introduction to Computer Science 2",
+    "filename": "CSC112.pdf",
+    "fileType": "pdf"
+  },
+  {
+    "sn": 3,
+    "courseCode": "CSC 212",
+    "courseTitle": "Computer Programing 2",
+    "filename": "CSC212.pdf",
+    "fileType": "pdf"
+  },
+  {
+    "sn": 4,
+    "courseCode": "CSC 214",
+    "courseTitle": "File Processing",
+    "filename": "CSC214.pdf",
+    "fileType": "pdf"
+  },
+  {
+    "sn": 5,
+    "courseCode": "CSC 216",
+    "courseTitle": "Assembly language",
+    "filename": "CSC216.pdf",
+    "fileType": "pdf"
+  },
+  {
+    "sn": 6,
+    "courseCode": "CSC 222",
+    "courseTitle": "Database design & managent 1",
+    "filename": "CSC222.pdf",
+    "fileType": "pdf"
+  },
+  {
+    "sn": 7,
+    "courseCode": "CSC 224",
+    "courseTitle": "Internet technology 1",
+    "filename": "CSC224.pdf",
+    "fileType": "pdf"
+  },
+  {
+    "sn": 8,
+    "courseCode": "CSC 230",
+    "courseTitle": "Computer Architecture",
+    "filename": "CSC230.pdf",
+    "fileType": "pdf"
+  },
+  {
+    "sn": 9,
+    "courseCode": "CSC 231",
+    "courseTitle": "Computer Programing 1",
+    "filename": "CSC231.pdf",
+    "fileType": "pdf"
+  },
+  {
+    "sn": 10,
+    "courseCode": "CSC 233",
+    "courseTitle": "Object oriented Programming usin Java",
+    "filename": "CSC233.pdf",
+    "fileType": "pdf"
+  },
+  {
+    "sn": 11,
+    "courseCode": "CSC 101",
+    "courseTitle": "Inoformation, Communicatio Society",
+    "filename": "CSC101.pdf",
+    "fileType": "pdf"
+  },
+  {
+    "sn": 12,
+    "courseCode": "CSC 106",
+    "courseTitle": "Information litracy for the digital age",
+    "filename": "CSC106.pdf",
+    "fileType": "pdf"
+  },
+  {
+    "sn": 13,
+    "courseCode": "MAT 111",
+    "courseTitle": "Elementry set theory and numbers",
+    "filename": "MAT111.pdf",
+    "fileType": "pdf"
+  },
+  {
+    "sn": 14,
+    "courseCode": "MAT 113",
+    "courseTitle": "Elementry vector, geometry and mechanics",
+    "filename": "MAT113.pdf",
+    "fileType": "pdf"
+  },
+  {
+    "sn": 15,
+    "courseCode": "MAT 114",
+    "courseTitle": "Elementry Algebra and trigonometry",
+    "filename": "MAT114.pdf",
+    "fileType": "pdf"
+  },
+  {
+    "sn": 16,
+    "courseCode": "MAT 201",
+    "courseTitle": "Mathematical methods 1",
+    "filename": "MAT201.pdf",
+    "fileType": "pdf"
+  },
+  {
+    "sn": 17,
+    "courseCode": "MAT 206",
+    "courseTitle": "Linear algebra 2",
+    "filename": "MAT206.pdf",
+    "fileType": "pdf"
+  },
+  {
+    "sn": 18,
+    "courseCode": "MAT 211",
+    "courseTitle": "Ordinary & partial differential equations",
+    "filename": "MAT211.pdf",
+    "fileType": "pdf"
+  },
+  {
+    "sn": 19,
+    "courseCode": "MAT 213",
+    "courseTitle": "Linear algebra 1",
+    "filename": "MAT213.pdf",
+    "fileType": "pdf"
+  },
+  {
+    "sn": 20,
+    "courseCode": "PHY 115",
+    "courseTitle": "Mechanics and Properties of Matter",
+    "filename": "PHY115.doc",
+    "fileType": "docx"
+  },
+  {
+    "sn": 21,
+    "courseCode": "PHY 191",
+    "courseTitle": "Practical physics I",
+    "filename": "PHY191.doc",
+    "fileType": "docx"
+  },
+  {
+    "sn": 22,
+    "courseCode": "STA 121",
+    "courseTitle": "Introduction to probability",
+    "filename": "STA121.pdf",
+    "fileType": "pdf"
+  },
+  {
+    "sn": 23,
+    "courseCode": "STA 124",
+    "courseTitle": "Introduction to probability distribution",
+    "filename": "STA124.pdf",
+    "fileType": "pdf"
+  },
+  {
+    "sn": 24,
+    "courseCode": "STA 131",
+    "courseTitle": "Introductio to statistical inference 1",
+    "filename": "STA131.pdf",
+    "fileType": "pdf"
+  },
+  {
+    "sn": 25,
+    "courseCode": "STA 203",
+    "courseTitle": "Staistic for physical science and enginnering",
+    "filename": "STA203.pdf",
+    "fileType": "pdf"
+  },
+  {
+    "sn": 26,
+    "courseCode": "STA 206",
+    "courseTitle": "Staistic for physical science and enginnering 2",
+    "filename": "STA206.pdf",
+    "fileType": "pdf"
+  },
+  {
+    "sn": 27,
+    "courseCode": "STA 221",
+    "courseTitle": "Pobability distribution 1",
+    "filename": "STA221.pdf",
+    "fileType": "pdf"
+  },
+  {
+    "sn": 28,
+    "courseCode": "TCS 111",
+    "courseTitle": "Inroduction to Telecommunication",
+    "filename": "TCS111.pdf",
+    "fileType": "pdf"
+  },
+  {
+    "sn": 29,
+    "courseCode": "TCS 112",
+    "courseTitle": "Telecomunication and networks 1",
+    "filename": "TCS112.pdf",
+    "fileType": "pdf"
+  }
+]

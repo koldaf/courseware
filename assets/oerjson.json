@@ -1,0 +1,98 @@
+[
+  {
+    "SN": 1,
+    "name": "Algorithms and Data Structures",
+    "Description": "A textbook for first-year Computer Science, covering essential concepts.",
+    "Link": "https://oercommons.org/courses/algorithms-and-data-structures"
+  },
+  {
+    "SN": 2,
+    "name": "Cascading Style Sheets",
+    "Description": "This book is a guide to Cascading Style Sheets (CSS), a technique widely used in web pages including Wikipedia to describe their visual style and appearance. CSS can take HTML to new places creatively and functionally. Once you learn how to style mark-up, you can additionally learn JavaScript functions that make dynamic web pages.",
+    "Link": "https://oercommons.org/courses/cascading-style-sheets-2"
+  },
+  {
+    "SN": 3,
+    "name": "Database Design - 2nd Edition",
+    "Description": "Covers database systems and design concepts, suitable for advanced learners.",
+    "Link": "https://oercommons.org/courses/database-design-2nd-edition"
+  },
+  {
+    "SN": 4,
+    "name": "Foundations of Computation",
+    "Description": "Foundations of Computation is a free textbook for a one-semester course in theoretical computer science. It has been used for several years in a course at Hobart and William Smith Colleges. The course has no prerequisites other than introductory computer programming. The first half of the course covers material on logic, sets, and functions that would often be taught in a course in discrete mathematics. The second part covers material on automata, formal languages, and grammar that would ordinarily be encountered in an upper level course in theoretical computer science.",
+    "Link": "https://oercommons.org/courses/foundations-of-computation"
+  },
+  {
+    "SN": 5,
+    "name": "How to Think Like a Computer Scientist: Learning with Python",
+    "Description": "Python is a fun and extremely easy-to-use programming language that has steadily gained in popularity over the last few years. Developed over ten years ago by Guido van Rossum, Python's simple syntax and overall feel is largely derived from ABC, a teaching language that was developed in the 1980's. However, Python was also created to solve real problems and it borrows a wide variety of features from programming languages such as C++, Java, Modula-3, and Scheme. Because of this, one of Python's most remarkable features is its broad appeal to professional software developers, scientists, researchers, artists, and educators. 278 page pdf file.",
+    "Link": "https://oercommons.org/courses/how-to-think-like-a-computer-scientist-learning-with-python"
+  },
+  {
+    "SN": 6,
+    "name": "Operating Systems and Middleware: Supporting Controlled Interaction",
+    "Description": "In this book, you will learn about all three kinds of interaction. In all three cases, interesting software techniques are needed in order to bring the computations into contact, yet keep them sufifciently at arm�s length that they don�t compromise each other�s reliability. The exciting challenge, then, is supporting controlled interaction. This includes support for computations that share a single computer and interact with one another, as your email and word processing programs do. It also includes support for data storage and network communication. This book describes how all these kinds of support are provided both by operating systems and by additional software layered on top of operating systems, which is known as middleware.",
+    "Link": "https://oercommons.org/courses/operating-systems-and-middleware-supporting-controlled-interaction"
+  },
+  {
+    "SN": 7,
+    "name": "Programming Languages: Application and Interpretation",
+    "Description": "Unlike some other textbooks, this one does not follow a top-down narrative. Rather it has the flow of a conversation, with backtracking. We will often build up programs incrementally, just as a pair of programmers would. We will include mistakes, not because I don�t know the answer, but because this is the best way for you to learn. Including mistakes makes it impossible for you to read passively: you must instead engage with the material, because you can never be sure of the veracity of what you�re reading.\n\nThe main programming language used in this book is Racket. Like with all operating systems, however, Racket actually supports a host of programming languages, so you must tell Racket which language you�re programming in.\n\nThis textbook has been used in classes at: Brown University, Cal Poly, Columbus State University, Northeastern University, NYU, Reed College, UC-San Diego, UC-Santa Cruz, University of Rhode Island, University of Utah, Westmont College, Williams College, and Worcester Polytechnic Institute.",
+    "Link": "https://oercommons.org/courses/programming-languages-application-and-interpretation-2"
+  },
+  {
+    "SN": 8,
+    "name": "Software Engineering",
+    "Description": "This course presents software engineering concepts and principles in parallel with the software development life cycle. Topics addressed include the Software Development Life Cycle (SDLC), software modeling using Unified Modeling Language (UML), major phases of SDLC (Software Requirements and Analysis, Software Design, and Software Testing), and project management. Upon successful completion of this course, the student will be able to: demonstrate mastery of software engineering knowledge and skills, and professional issues necessary to practice software engineering; discuss principles of software engineering; describe software development life cycle models; learn principles of software modeling through UML as a modeling language; identify major activities and key deliverables in a software development life cycle during software requirements and analysis, software design, and software testing; apply the object-oriented methodology in software engineering to create UML artifacts for software analysis and requirements, software design, and software testing; apply project management concepts in a software engineering environment to manage project, people, and product; participate as an individual and as part of a team to deliver quality software systems. This free course may be completed online at any time. (Computer Science 302)",
+    "Link": "https://oercommons.org/courses/software-engineering"
+  },
+  {
+    "SN": 9,
+    "name": "Think Complexity",
+    "Description": "This book is about complexity science, data structures and algorithms, intermediate programming in Python, and the philosophy of science. This book focuses on discrete models, which include graphs, cellular automata, and agent-based models. They are often characterized by structure, rules and transitions rather than by equations. They tend to be more abstract than continuous models; in some cases there is no direct correspondence between the model and a physical system.",
+    "Link": "https://oercommons.org/courses/think-complexity"
+  },
+  {
+    "SN": 10,
+    "name": "Think OS: A Brief Introduction to Operating Systems",
+    "Description": "Think OS is an introduction to Operating Systems for programmers. In many computer science programs, Operating Systems is an advanced topic. By the time students take it, they usually know how to program in C, and they have probably taken a class in Computer Architecture. Usually the goal of the class is to expose students to the design and implementation of operating systems, with the implied assumption that some of them will do research in this area, or write part of an OS.",
+    "Link": "https://oercommons.org/courses/think-os-a-brief-introduction-to-operating-systems"
+  },
+  {
+    "SN": 11,
+    "name": "Think Python 2e",
+    "Description": "Think Python is an introduction to Python programming for beginners. It starts with basic concepts of programming, and is carefully designed to define all terms when they are first used and to develop each new concept in a logical progression. Larger pieces, like recursion and object-oriented programming are divided into a sequence of smaller steps and introduced over the course of several chapters.",
+    "Link": "https://oercommons.org/courses/think-python-an-introduction-to-software-design"
+  },
+  {
+    "SN": 12,
+    "name": "Ways to Study",
+    "Description": "Scientific research and design is traditionally made to be published in books or magazines by use of text and images. The arrival of digital media and internet changed this dramatically and allowed new possibilities and far better accessibility of this work. Be this as it may, it is still paramount that the accuracy and completeness of published scientific work is maintained. This course will focus on this integrated concept, the learning of how to successfully make and publish your own website. In 6 lectures the several aspects of traditional scientific research will be treated by using the contemporary media. The course has the following study goals, that correspond with the given assignments and lectures: publishing own study and design work; making your work retrievable for others by use of key words; making use of digital media to describe own work; describing and evaluating of own work; making a bibliography and iconography; intrepretenting an image as a scientific document;describing in key words; compare images scientifically; deducting design types from image comparison; deducting design concepts from image comparison; deducting design models from image comparison; deducting design programs from image comparison; integrating different design concepts and becoming acquainted with research methods; defining an object of research, problem field, target field, design tools, own competence and context of research; formulating a site, context factors, motivation, design program, contribution, intended results and planning; justifying, referring and concluding of own work; giving and receiving professional critique.",
+    "Link": "https://oercommons.org/courses/ways-to-study"
+  },
+  {
+    "SN": 13,
+    "name": "How to Think Like a Computer Scientist: C++ Version",
+    "Description": "Focuses on problem-solving skills essential for computer scientists.",
+    "Link": "https://oercommons.org/courses/how-to-think-like-a-computer-scientist-c-version"
+  },
+  {
+    "SN": 14,
+    "name": "Introduction to the Modeling and Analysis of Complex Systems",
+    "Description": "Introduces students to the modeling and analysis of complex systems.",
+    "Link": "https://oercommons.org/courses/introduction-to-the-modeling-and-analysis-of-complex-systems"
+  },
+  {
+    "SN": 15,
+    "name": "Open Data Structures",
+    "Description": "Aims to free undergraduate computer science students from the cost of textbooks.",
+    "Link": "https://oercommons.org/courses/open-data-structures"
+  },
+  {
+    "SN": 16,
+    "name": "Collection of Books in Computer Science",
+    "Description": "A collection of books on computer science",
+    "Link": "https://collection.bccampus.ca/subjects/computer-science/?viewAllTextbooks=true"
+  }
+]
